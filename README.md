@@ -1,4 +1,4 @@
-# chicken_spatial_ecology
+# Geospatial Epidemiology of Animal Movement Patterns
 Spatial ecology of Ecuadorian village chickens
 These scripts were used to conduct spatial statistics and to create spatial animations about chicken movement patterns.
 
