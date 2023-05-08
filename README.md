@@ -8,6 +8,6 @@
 
 * **Publications**
   - Hedman HD, Zhang L, Trueba G, Vinueza Rivera DL, Zurita Herrera RA, Villacis Barrazueta J, Gavilanes Rodriguez GI, Butt B, Foufopoulos J, Berrocal VJ, Eisenberg JNS. (2020). Spatial exposure of agricultural antimicrobial resistance in relation to free-ranging domestic chicken (Gallus gallus domesticus) movement patterns among agricultural communities in Ecuador. The American Journal of Tropical Medicine and Hygiene. tpmd200076.
-  - Hedman HD, Varga C, Brown WM, Shelton P, Roca1 AL, Novakofski1 JE, Mateus-Pinilla1 NE. (2020). Spatial analysis of chronic wasting disease in free-ranging white-tailed deer (Odocoileus virginianus) in Illinois, 2008-2019. Transboundary and Emerging Diseases
+
 
 
