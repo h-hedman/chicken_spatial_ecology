@@ -1,10 +1,13 @@
-# Geospatial Epidemiology of Animal Movement Patterns
-Spatial ecology of Ecuadorian village chickens
-These scripts were used to conduct spatial statistics and to create spatial animations about chicken movement patterns.
+# Spatial Epidemiological Analyses
 
-#### Examples: 
-https://www.youtube.com/watch?v=kUFlIwpwV6M&ab_channel=HaydenHedman
-https://www.youtube.com/watch?v=S1fH8pbhcTk&ab_channel=HaydenHedman
+* **Purpose** 
+  - Demonstrate reproducible examples of several projects for working with health outcomes data that includes a geospatial component 
+ 
+* **Overview** 
+  - These projects were used for both public health research and epidemiological surveillance
 
-#### Publication
-https://www.ajtmh.org/view/journals/tpmd/103/5/article-p1803.xml
+* **Publications**
+  - Hedman HD, Zhang L, Trueba G, Vinueza Rivera DL, Zurita Herrera RA, Villacis Barrazueta J, Gavilanes Rodriguez GI, Butt B, Foufopoulos J, Berrocal VJ, Eisenberg JNS. (2020). Spatial exposure of agricultural antimicrobial resistance in relation to free-ranging domestic chicken (Gallus gallus domesticus) movement patterns among agricultural communities in Ecuador. The American Journal of Tropical Medicine and Hygiene. tpmd200076.
+  - Hedman HD, Varga C, Brown WM, Shelton P, Roca1 AL, Novakofski1 JE, Mateus-Pinilla1 NE. (2020). Spatial analysis of chronic wasting disease in free-ranging white-tailed deer (Odocoileus virginianus) in Illinois, 2008-2019. Transboundary and Emerging Diseases
+
+
