@@ -12,6 +12,6 @@
 
 
 * **Animations** 
-  - https://www.youtube.com/watch?v=kUFlIwpwV6M&ab_channel=HaydenHedman
-  - https://www.youtube.com/watch?v=S1fH8pbhcTk&ab_channel=HaydenHedman
+  - One chicken movement demonstration: https://www.youtube.com/watch?v=kUFlIwpwV6M&ab_channel=HaydenHedman
+  - Free-ranging chickens moving in shared space: https://www.youtube.com/watch?v=S1fH8pbhcTk&ab_channel=HaydenHedman
   - CWD in IL Time Series: https://www.youtube.com/watch?v=eQLsTC-vVBQ&t=1s&ab_channel=HaydenHedman
